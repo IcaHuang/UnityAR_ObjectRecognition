@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85f3b71a771f04aef8057fae3964fd78, type: 3}
+  m_Name: ReferenceObjectLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4643185608379591848
+  m_GuidHigh: 1652141024903362735
+  m_ReferenceObjects:
+  - m_GuidLow: 5071411538986366997
+    m_GuidHigh: 11682585171227738538
+    m_Name: cake
+    m_Entries:
+    - {fileID: -6831329414088302235, guid: df43fe31cfc4e48f3b1428f703e64a6a, type: 3}
+  - m_GuidLow: 4821122925440166063
+    m_GuidHigh: 9058271370884805019
+    m_Name: book
+    m_Entries:
+    - {fileID: -6831329414088302235, guid: 5cbb777c5bf094e33ba0409be443fe29, type: 3}

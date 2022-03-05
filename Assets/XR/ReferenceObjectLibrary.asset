@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85f3b71a771f04aef8057fae3964fd78, type: 3}
+  m_Name: ReferenceObjectLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4952219073327770025
+  m_GuidHigh: 10201818862082940083
+  m_ReferenceObjects:
+  - m_GuidLow: 5531053582219854521
+    m_GuidHigh: 13425202791536173444
+    m_Name: Dolly
+    m_Entries:
+    - {fileID: -6831329414088302235, guid: 1b9c57210df17460aacbd1fcda782f62, type: 3}
+  - m_GuidLow: 5585097762400449537
+    m_GuidHigh: 3949189734819517857
+    m_Name: Plant
+    m_Entries:
+    - {fileID: -6831329414088302235, guid: 26566471d60b44f3c8e2589e9aee35e8, type: 3}
